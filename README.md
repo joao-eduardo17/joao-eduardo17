@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2 align= "center">👋 Olá, eu sou o João Eduardo! </h2>
+<br>
 
-<!--
-**joao-eduardo17/joao-eduardo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Meu nomé é João Eduardo, eu tenho 18 anos e atualmente sou um desenvolvedor cursando Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos.</p>
+<h3>📒 No momento estou estudando:</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Python</li>
+  <li>Flask</li>
+  <li>MySQL Workbench</li>
+</ul>
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>☎️ Contatos:</h3>
+<ul>
+  <li>📄 Linkedin:<a href="https://www.linkedin.com/in/joão-eduardo-messias-a3019125b/""> João Eduardo Messias</li>
+  <li>✉️ Email: joao.eduardo.messias@gmail.com</li>
+</ul>
