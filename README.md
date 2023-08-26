@@ -9,6 +9,7 @@
   <li>Python</li>
   <li>Flask</li>
   <li>MySQL Workbench</li>
+  <li>Java</li>
 </ul>
 <br>
 
