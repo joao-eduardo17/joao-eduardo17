@@ -7,9 +7,10 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>Python</li>
-  <li>Flask</li>
+  <li>Framework Flask</li>
   <li>MySQL Workbench</li>
   <li>Java</li>
+  <li>JavaScript</li>
 </ul>
 <br>
 
