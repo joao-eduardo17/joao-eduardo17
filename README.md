@@ -1,7 +1,7 @@
 <h2 align= "center">👋 Olá, eu sou o João Eduardo! </h2>
 <br>
 
-<p>Meu nomé é João Eduardo, eu tenho 18 anos e atualmente sou um desenvolvedor cursando Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos.</p>
+<p>Meu nome é João Eduardo, eu tenho 18 anos e atualmente sou um desenvolvedor cursando Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos.</p>
 <h3>📒 No momento estou estudando:</h3>
 <ul>
   <li>HTML</li>
