@@ -10,7 +10,7 @@
   <li>Framework Flask</li>
   <li>MySQL Workbench</li>
   <li>Java</li>
-  <li>JavaScript</li>
+  <li>JavaScript e TypeScript</li>
 </ul>
 <br>
 
