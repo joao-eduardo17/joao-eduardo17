@@ -8,9 +8,10 @@
   <li>CSS</li>
   <li>Python</li>
   <li>Framework Flask</li>
-  <li>MySQL Workbench</li>
+  <li>MySQL</li>
   <li>Java</li>
   <li>JavaScript e TypeScript</li>
+  <li>React</li>
 </ul>
 <br>
 
