@@ -10,8 +10,10 @@
   <li>Framework Flask</li>
   <li>MySQL</li>
   <li>Java</li>
-  <li>JavaScript e TypeScript</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
   <li>React</li>
+  <li>React Native</li>
 </ul>
 <br>
 
