@@ -22,3 +22,6 @@
   <li>📄 Linkedin:<a href="https://www.linkedin.com/in/joão-eduardo-messias-a3019125b/""> João Eduardo Messias</li>
   <li>✉️ Email: joao.eduardo.messias@gmail.com</li>
 </ul>
+
+
+<!--<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=joao-eduardo17&show_icons=true alt=joao-eduardo17 /> </p>
