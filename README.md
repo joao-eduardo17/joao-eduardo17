@@ -40,6 +40,7 @@
 ![Git][git-badge]
 ![IntelliJ IDEA][intellij-idea-badge]
 ![Visual Studio Code][visual-studio-code-badge]
+![Linux][linux-badge]
 
 
 <!-- MARKDOWN LINKS -->
@@ -64,4 +65,4 @@
 [git-badge]: https://img.shields.io/badge/Git-%23F05033.svg?logo=git&color=%231F1C31
 [intellij-idea-badge]: https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&color=%231F1C31
 [visual-studio-code-badge]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=blue&color=%231F1C31
-
+[linux-badge]: https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black&color=%231F1C31
