@@ -7,9 +7,9 @@
 
 💻 Enthusiastic about technology and programming challenges <br>
 🎓 I'm studying Systems Analysis and Development at Fatec Prof. Jessen Vidal <br>
-💼 I'm currently working as a Python Developer Intern <br>
 📖 I'm currently learning about cloud computing with AWS <br>
 🎮 I enjoy programming and playing video games <br>
+<!--💼 I'm currently working as a Python Developer Intern <br> -->
 
 
 <!-- TECH STACK -->
